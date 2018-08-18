@@ -1,7 +1,6 @@
 package org.gluecoders.multithreading.producerconsumer;
 
 import java.util.UUID;
-import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 
 public class ProducerConsumerBlockingQueue {
